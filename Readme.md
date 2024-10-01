@@ -7,7 +7,9 @@ Feature2
 1.	Branching can be structured something like below
 
 Main – Production deployment. Will be merged from Develop branch
+
 Develop – Development branch. All features branch will be merged to this branch
+
 Feature/Feature1 & Feature/Feature2 
 – Feature branches. It will be created from Develop branch and Code needs to be tested before merging with develop branch.
 For each feature branch i.e. Feature/feature1 & Feature/feature2, we can create a temporary feature branch. These branches will be used for development and testing of the feature
