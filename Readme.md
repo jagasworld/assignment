@@ -1,9 +1,3 @@
-Assignment
-Main branch for Production
-Develop
-Feature1
-Feature2
-....
 
 Branching can be structured something like below
 
