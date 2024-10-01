@@ -4,7 +4,7 @@ Develop
 Feature1
 Feature2
 ....
-1.	Branching can be structured something like below
+Branching can be structured something like below
 
 Main – Production deployment. Will be merged from Develop branch
 
